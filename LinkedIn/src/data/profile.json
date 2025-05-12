@@ -1,0 +1,170 @@
+{
+  "name": "Trevor Creagan",
+  "title": "Future Software Engineer",
+  "location": "Augusta, GA",
+  "image": "/profile.jpg",
+  "bio": "Passionate software engineer with 2+ years of experience in building scalable web applications. Specialized in React, TypeScript, and cloud technologies. Committed to writing clean, maintainable code and creating exceptional user experiences.",
+  "social": {
+    "email": "ctrevor834@gmail.com",
+    "github": "https://github.com/ctrevor834",
+    "linkedin": "https://www.linkedin.com/in/trevor-creagan-778a4a361/",
+    "portfolio": "https://trevorcreagan.dev"
+  },
+  "experience": [
+    {
+      "role": "Tax Intern",
+      "company": "Foreman & Milks CPA",
+      "duration": "2024 - Present",
+      "description": [
+        "Reviewing tax returns and preparing them for clients",
+        "Assisting with tax preparation and filing",
+        "Working with tax software and financial documents",
+        "Collaborating with senior tax professionals"
+      ]
+    },
+    {
+      "role": "Dasher",
+      "company": "DoorDash",
+      "duration": "2023 - 2024",
+      "description": [
+        "Managed point of sale system and efficiently resolved technical issues for prompt resolutions",
+        "Greeted customers and processed transactions with attention to detail for accuracy averaging $200 in transactions per hour",
+        "Recognized as a top dasher for demonstrating excellent completion rate and customer satisfaction",
+        "Excelled at communication and conflict resolution when addressing customer complaints",
+        "Developed excellent problem-solving skills through resourceful solutions, providing reliable and exceptional quality of work"
+      ]
+    },
+    {
+      "role": "Stocker",
+      "company": "Augusta National Golf Club",
+      "duration": "2019 - 2019",
+      "description": [
+        "Restocking the Clubhouse and Pro Shop",
+        "Maintaining inventory levels and organization",
+        "Assisting with customer service and product placement",
+        "Working efficiently in a fast-paced environment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Augusta University",
+      "year": "2025",
+      "gpa": "3.7",
+      "relevant_courses": [
+        "Data Structures & Algorithms",
+        "Software Engineering",
+        "Database Systems",
+        "Reverse Engineering & Malware Analysis",
+        "Operating Systems",
+        "Theory of Computation",
+        "Programming Languages",
+        "Calculus 1 & 2",
+        "Linear Algebra",
+        "Discrete Math"
+      ],
+      "awards": [
+        "Dean's List",
+        "President's List"
+      ]
+    },
+    {
+      "degree": "High School Diploma",
+      "school": "Lakeside High School",
+      "year": "2020",
+      "gpa": "3.8",
+      "relevant_courses": [
+        "IB Chemistry",
+        "AP Calculus",
+        "AP Physics"
+      ],
+      "awards": [
+        "Zell Miller Scholarship Recipient",
+        "Honors Graduate"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Python",
+      "C#",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "HTML",
+      "CSS",
+      "Java",
+      "Assembly",
+      "Linux",
+      "Windows",
+      "Ubuntu",
+      "Express",
+      "React Native",
+      "MySQL"
+    ],
+    "soft": [
+      "Team Leadership",
+      "Problem Solving",
+      "Communication",
+      "Agile Methodologies",
+      "Technical Writing"
+    ]
+  },
+  "tools": {
+    "ides": [
+      "Visual Studio Code",
+      "IntelliJ IDEA",
+      "Cursor"
+    ],
+    "version_control": [
+      "Git",
+      "GitHub",
+      "GitLab"
+    ],
+    "development_tools": [
+      "Postman",
+      "Jira",
+      "Figma",
+      "VS Code Extensions"
+    ],
+    "operating_systems": [
+      "Windows",
+      "Linux"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "none",
+      "issuer": "n/a",
+      "date": "n/a",
+      "id": "n/a"
+    }
+  ],
+  "projects": [
+    {
+      "name": "WYSIWYG Web Editor",
+      "description": "Developed a web editor that allows users to create and edit websites using a WYSIWYG interface",
+      "link": "https://github.com/ad20630/SP25-webstuff.git"
+    },
+    {
+      "name": "Fortune Teller Bot",
+      "description": "Built a fortune teller bot using python that generates a random fortune each time the user logs in",
+      "link": "https://github.com/ctrevor834/FortuneTeller.git"
+    }
+  ],
+  "interests": [
+    "Open Source Contribution",
+    "Project Creation & Collaboration",
+    "AI/ML Research",
+    "Rock Climbing",
+    "Gaming",
+    "Basketball",
+    "Reading",
+    "Baseball",
+    "Traveling"
+  ]
+} 
