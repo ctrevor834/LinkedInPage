@@ -76,5 +76,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Trevor Creagan - [ctrevor834@gmail.com]
 
-Project Link: [https://github.com/ctrevor834/LinkedInPage.git](https://github.com/ctrevor834/LinkedInPage.git)
+Project Link: [https://linked-l9ingd133-trevors-projects-3fb51c45.vercel.app](https://linked-l9ingd133-trevors-projects-3fb51c45.vercel.app)
 
